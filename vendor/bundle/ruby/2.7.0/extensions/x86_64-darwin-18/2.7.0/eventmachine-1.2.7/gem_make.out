@@ -1,0 +1,16 @@
+current directory: /Users/DogPa/Development/code/sinatra-basic-forms-lab-onl01-seng-ft-061520/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/DogPa/.rvm/rubies/ruby-2.7.1/bin/ruby -I /Users/DogPa/.rvm/rubies/ruby-2.7.1/lib/ruby/2.7.0 -r ./siteconf20200717-41462-1kdcys2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/DogPa/Development/code/sinatra-basic-forms-lab-onl01-seng-ft-061520/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/DogPa/Development/code/sinatra-basic-forms-lab-onl01-seng-ft-061520/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/DogPa/Development/code/sinatra-basic-forms-lab-onl01-seng-ft-061520/vendor/bundle/ruby/2.7.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 fastfilereaderext.bundle ./.gem.20200717-41462-zyki31
